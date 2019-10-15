@@ -37,4 +37,4 @@ Nos guiamos por el [código de conducta](.github/CODE_OF_CONDUCT.md). Es respons
 
 # Licencia
 
-Este documento fue creado basado en [el trabajo de source{d}](https://github.com/src-d/guide) y se distribuye bajo la licencia Creative Commons — Attribution-ShareAlike 4.0 International License. [LICENSE](./LICENSE.md).
+Este documento fue creado basado en [el trabajo de source{d}](https://github.com/src-d/guide) y se distribuye bajo la licencia [Creative Commons — Attribution-ShareAlike 4.0 International](./LICENSE.md).
