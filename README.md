@@ -27,7 +27,7 @@ Esta documentación es abierta para todo el equipo. Si notas que algo necesita m
 
 # Contribuir
 
-[contribuciones](https://github.com/Aurotek/playbook/issues) son bienvenidas, si estás interesado porfavor revisa nuestra
+Las [contribuciones](https://github.com/Aurotek/playbook/issues) son bienvenidas, si estás interesado por favor revisa nuestra
  [Guia pra contribuir](desarrollo/documents/CONTRIBUTING.md).
 
 
