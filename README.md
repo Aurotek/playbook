@@ -5,7 +5,7 @@ Bienvenido, el playbook de Auronix es un repositorio con toda la información ne
 Esta documentación es abierta para todo el equipo. Si notas que algo se puede mejorar te invitamos a sugerir mejoras o hacer preguntas mediante issues o pull requests.
 
 * General
-  * [Misión y Visión] (general/mision.md)
+  * [Misión y Visión](general/mision.md)
   * Roadmap
   * [Cultura](general/cultura.md)
   * [Productos](general/productos.md)
