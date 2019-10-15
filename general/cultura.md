@@ -4,4 +4,4 @@ Queremos crear una cultura donde todos los miembros puedan trabajar sin obstacul
 
 Queremos que al formar parte del equipo sientas que tus contribuciones dan forma a los productos y a la compañia y que parte de tu DNA se plasma y afecta la vida de toda la empresa y de nuestros clientes.
 
-Mientras sigamos creciendo esperamos que estos principios le sirvan a todas las personas que se nos unan. Si eres nuevo, bienvenido. Gracias por unirte. Ahora vamos a contruir grandes cosas.
+Mientras sigamos creciendo esperamos que estos principios le sirvan a todas las personas que se nos unan. Si eres nuevo, bienvenido. Gracias por unirte. Ahora vamos a construir grandes cosas.
