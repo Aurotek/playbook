@@ -32,7 +32,7 @@ Las [contribuciones](https://github.com/Aurotek/playbook/issues) son bienvenidas
 
 # Código de conducta
 
-Nos guiamos por el [código de conducta](.github/CODE_OF_CONDUCT.md).
+Nos guiamos por el [código de conducta](.github/CODE_OF_CONDUCT.md). Es responsabilidad de todo el equipo asegurarse que se siga.
 
 
 # Licencia
