@@ -14,8 +14,8 @@ Los Pull Requests (PRs) son la única manera en que puedes contruibuir a algun p
 Para que tu PR sea aceptado debe seguir una lista de requerimientos:
 
 - La contribucion debe estar claramente explicada con lenguaje simple y debes adjuntar un ejemplo minimo que reproduce la funcionalidad.
-- Todo el código debe cumplir con las guias de stilo dependiendo del lenguaje:
-    - Para php: seguimos el estandard de [PSR](https://www.php-fig.org/psr/), y sin advertencias de [php-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- Todo el código debe cumplir con las guias de estilo dependiendo del lenguaje:
+    - Para php: seguimos el estandard de [PSR](https://www.php-fig.org/psr/), y al correr [php-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) no debe arrojar ninguna advertencia.
     - Para javascript: Seguimos las recomendaciones de la [guia de Airbnb](https://github.com/airbnb/javascript)
     - Para C#: seguimos las [C# coding conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
     - Para otros lenguajes, se requieren guias de estilo similares.
