@@ -51,7 +51,7 @@ Ejemplo de descripción buena:
 Se valida que el usuario exista antes de obtener mensajes.
 ```
 
-Puedes aprender mas de cómo escribir mensajes claro [aquí](https://chris.beams.io/posts/git-commit/).
+Puedes aprender mas de cómo escribir mensajes claros [aquí](https://chris.beams.io/posts/git-commit/).
 
 pro-tip: si durante el desarrollo hiciste muchos commits puedes condensarlo en uno solo con `git rebase -i HEAD~[N]` ([mas info](https://www.internalpointers.com/post/squash-commits-into-one-git))
 
