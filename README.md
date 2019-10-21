@@ -16,7 +16,7 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
 * Oficinas 
 * Talento 
   * Onboarding
-  * [Offbaording](talento/offboarding)
+  * [Offbaording](talento/offboarding.md)
   * [Guia para juntas 1 a 1](talento/1a1.md)
 * Desarrollo 
   * Metodología
