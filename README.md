@@ -15,7 +15,11 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * Seguridad
 * Oficinas 
 * Talento 
+  * Onboarding
+  * Offbaording
+  * [Guia para juntas 1 a 1](talento/1a1.md)
 * Desarrollo 
+  * Metodología
 * Producto
   * Documents de diseño 
   * Diseño y branding 
