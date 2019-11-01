@@ -22,7 +22,7 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * [Offboarding](talento/offboarding.md)
   * [Guia para juntas 1 a 1](talento/1a1.md)
 * Producto
-  * Documents de diseño 
+  * Documentos de diseño 
   * Diseño y branding 
   * Guia de diseño gráfico 
 * Comunicación
