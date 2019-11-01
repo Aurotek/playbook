@@ -13,14 +13,14 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * Objectives & Key Results (OKRs)
   * Herramientas 
   * Seguridad
+* Desarrollo 
+  * [Metodología](desarrollo/agil.md)
+  * [Flujo de trabajo](desarrollo/flujo.md)
 * Oficinas 
 * Talento 
   * Onboarding
   * [Offboarding](talento/offboarding.md)
   * [Guia para juntas 1 a 1](talento/1a1.md)
-* Desarrollo 
-  * [Metodología](desarrollo/agil.md)
-  * [Flujo de trabajo](desarrollo/flujo.md)
 * Producto
   * Documents de diseño 
   * Diseño y branding 
