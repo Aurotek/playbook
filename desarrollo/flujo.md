@@ -2,7 +2,7 @@
 
 ### Define
 
-Todo debe empezar con una definción, si no tenemos claro que es lo que estamos haciendo. ¿como sabremos cuando lo hayamos temrinado?
+Todo debe empezar con una definción, si no tenemos claro qué es lo que estamos haciendo. ¿Cómo sabremos cuando lo hayamos temrinado?
 
 Debe haber un solo punto donde ir a buscar la información. (Monday)
 
