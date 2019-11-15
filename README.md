@@ -1,6 +1,8 @@
 # Playbook Auronix
 
-Bienvenido, el playbook de Auronix es un repositorio con toda la información necesaria para saber cómo organizamos nuestro trabajo. 
+## Intro
+
+Bienvenido, el playbook de Auronix es un repositorio con toda la información necesaria para saber cómo organizamos nuestro trabajo.
 
 Esta documentación es abierta para todo el equipo. Si notas que algo se puede mejorar te invitamos a sugerir mejoras o hacer preguntas mediante issues o pull requests.
 
@@ -11,37 +13,34 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * [Productos](general/productos.md)
   * Estructura organizacional
   * Objectives & Key Results (OKRs)
-  * Herramientas 
+  * Herramientas
   * Seguridad
-* Desarrollo 
+* Desarrollo
   * [Metodología](desarrollo/agil.md)
   * [Flujo de trabajo](desarrollo/flujo.md)
-* Oficinas 
-* Talento 
+* Oficinas
+* Talento
   * Onboarding
   * [Offboarding](talento/offboarding.md)
   * [Guia para juntas 1 a 1](talento/1a1.md)
 * Producto
-  * Documentos de diseño 
-  * Diseño y branding 
-  * Guia de diseño gráfico 
+  * Documentos de diseño
+  * Diseño y branding
+  * Guia de diseño gráfico
 * Comunicación
-  * Canales de slack 
+  * [Guia de slack](general/slack.md)
 
-
-# Contribuir
+## Contribuir
 
 Esta guia es de todos, así que puedes editara. Una vez que la hayas leido ayúdanos a hacerla mejor para los demás. Sugiere nuevas secciones o cambia las existentes. Agrega cosas al temario. O si no te sientes cómodo haciendo cambios levanta issues con tus comentarios y sugerencias. Nosotros en conjunto revisaremos los cambios y los publicaremos para futuras versiones.
 
 Todas las [contribuciones](https://github.com/Aurotek/playbook/issues) son bienvenidas, si estás interesado por favor revisa nuestra
  [Guia para contribuir](desarrollo/documents/CONTRIBUTING.md).
 
-
-# Código de conducta
+## Código de conducta
 
 Nos guiamos por el [código de conducta](.github/CODE_OF_CONDUCT.md). Es responsabilidad de todo el equipo asegurarse que se siga.
 
-
-# Licencia
+## Licencia
 
 Este documento fue creado basado en [el trabajo de source{d}](https://github.com/src-d/guide) y se distribuye bajo la licencia [Creative Commons — Attribution-ShareAlike 4.0 International](./LICENSE.md).
