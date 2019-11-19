@@ -4,11 +4,11 @@ Usamos Slack como nuestro canal oficial de comunicación. Es importante que dura
 
 ## Organizar la comunicación mediante canales
 
-Para mantener Slack organizado y fácil de digerir, cada proyecto debe tener su propio canal. Esto nos asegura que solo las miembros relevantes del equipo esten enterados y reciban las notificaciones. También se recomienda tener canales separados para temas en especifico.
+Para mantener Slack organizado y fácil de digerir, cada proyecto debe tener su propio canal. Esto nos asegura que solo las miembros relevantes del equipo esten enterados y reciban las notificaciones. También se recomienda tener canales separados para temas en específico.
 
-La mayoria de los canales son públicos, esto quiere decir que lo que cualquier miembro puede entrar a ver lo que se platico, se conciente de esto y evita poner cosas que no dirias en persona o que alguien podria considerar ofensivo.
+La mayoría de los canales son públicos, esto quiere decir que lo que cualquier miembro puede entrar a ver lo que se platicó, se conciente de esto y evita poner cosas que no dirias en persona o que alguien podría considerar ofensivo.
 
-- **#general** Para discusiones que son relacioinadas con toda la empresa y no específico de un proyecto o equipo. Sirve para dar anuncion generales, recordatorios etcetera.
+- **#general** Para discusiones que son relacioinadas con toda la empresa y no específico de un proyecto o equipo. Sirve para dar anuncion generales, recordatorios etcétera.
 - **#random** Aqui va todas las cosas divertidas o interesantes.
 
 ## Recuerda el propósito de cada canal
@@ -23,7 +23,7 @@ Otro ejemplo es no responder solo con "gracias", en esos casos se prefiere usar 
 
 ## Slack no es un archivo
 
-Slack es una herramienta de comunicación, no de colaboración. Como lo sugerimos antes, no queremos saturar de información el canal. Pero incluso en canales bien mantenidos puede ser facil perder documentos o bajar versiones desactualizadas. Si algo que se habló por slack es importante de preservar guardalo en otro medio que tenga mas sentido.
+Slack es una herramienta de comunicación, no de colaboración. Como lo sugerimos antes, no queremos saturar de información el canal. Pero incluso en canales bien mantenidos puede ser fácil perder documentos o bajar versiones desactualizadas. Si algo que se habló por slack es importante de preservar guardalo en otro medio que tenga más sentido.
 
 ## No bombardees
 
@@ -37,7 +37,7 @@ Estás? (1 sec ago)
 Ocupado? (1 sec ago)
 ```
 
-Lo mas probable es que la persona esté ocupada o en alguna reunión y recibió tus mensaje spero no ha podido leerlos. En su lugar es preferible mandar un mensaje donde quede muy claro lo que necesitas de los demas.
+Lo más probable es que la persona esté ocupada o en alguna reunión y recibió tus mensajes pero no ha podido leerlos. En su lugar es preferible mandar un mensaje donde quede muy claro lo que necesitas de los demas.
 
 Ejemplo:
 
@@ -47,7 +47,7 @@ Hola, estoy intentando correr las pruebas pero me salé este error: XXXXX, cuand
 
 ## Responde todos tus mensaje y pendientes antes de que acabe el día
 
-Es importante asegurarnos de responderle a todas las personas que nos buscaron durante el día. Si lo que necesitan te va tomar mucho tiempo apuntalo en tus pendientes(puede susar los recordatorios de Slack) y contéstale cuando esperas responderle. Recuerda que alguien puede estar bloqueado hasta que les contestes y no debes de hacerlo sentir ignorado, se recomienda reponder que ya leiste el mensaje y decirles cuando piensas atenderlo, incluso si no sabes cuanto tiempo te va a tomar una simple "no estoy seguro, pero lo reviso después de mi junta" es suficiente para que ellos puedan ajustar sus actividades.
+Es importante asegurarnos de responderle a todas las personas que nos buscaron durante el día. Si lo que necesitan te va tomar mucho tiempo apuntalo en tus pendientes (puedes usar los recordatorios de Slack) y contéstale cuando esperas responderle. Recuerda que alguien puede estar bloqueado hasta que le contestes y no debes de hacerlo sentir ignorado, se recomienda reponder que ya leiste el mensaje y decirles cuando piensas atenderlo, incluso si no sabes cuanto tiempo te va a tomar una simple "no estoy seguro, pero lo reviso después de mi junta" es suficiente para que ellos puedan ajustar sus actividades.
 
 Si eres una persona de pocas palabra o muy ocupada puedes simplemente usar la reacción ✅.
 
@@ -61,15 +61,15 @@ Por ejemplo, cuando alguien pregunta si ya se está trabajando en una tarea, pod
 No te preocupes, @pacha ya está trabajando en eso. Nos pusimos de acuerdo por la mañana.
 ```
 
-Al hacer la mención @pacha recibirá una notificación que podría distraerlo de la tarea, cuando en realidad lo unico importante era informar que ya lo estabamos revisando.
+Al hacer la mención @pacha recibirá una notificación que podría distraerlo de la tarea, cuando en realidad lo único importante era informar que ya lo estabamos revisando.
 
 También es importante no usar @channel solo si todos necesitan saber. En su lugar se recomienda usar @here paar que solo le llegue a las personas que están conectadas.
 
-## Usa la funcion Do not disturb
+## Usa la función Do not disturb
 
 Cuando necesites mantenerte concetrado puedes usar la funcion de no molestar, esto pospone todas las notificacions por un periodo de tiempo. (pro tip: puedes configurar el horario laboral para que no te lleguen notificaciones en la noche)
 
-Cuando estes en este modo se recomienda poner un estatus para que las personas sepan que estas "en la zona y no quieres distracciones"
+Cuando estes en este modo se recomienda poner un estatus para que las personas sepan que estás "en la zona y no quieres distracciones"
 
 ## Celebra en público, critica en privado
 
@@ -77,17 +77,17 @@ La crítica contructiva y la retroalimentación en la ofician es importante. Ayu
 
 Nunca critiques a alguien en un canal de Slack o en persona frente a mas personas. Para estos casos es mejor un mensaje privado, una llamada o una reunion privada como los 1:1.
 
-Por otro lado siempre es mejor dar reconocimientos publicamente. Sirve para informar al resto del equipo de los logros alcanzados y para asegurarnos que todos sepan la valiosa aportacion de los miembros.
+Por otro lado siempre es mejor dar reconocimientos públicamente. Sirve para informar al resto del equipo de los logros alcanzados y para asegurarnos que todos sepan la valiosa aportación de los miembros.
 
-## ¿Cuando comunicarse en persona o por video llamada?
+## ¿Cuándo comunicarse en persona o por video llamada?
 
 Slack no es ideal para todo tipo de conversaciones, Una regla simple es:
 
 Si la respuesta requiere una 1 sentencia => Slack.
-Si la respuesta es mas larga o requiere participantes externos => mail
+Si la respuesta es más larga o requiere participantes externos => Mail
 
-Mientras mas complicado sea el tema es mejor comunicarlo verbalmente, ya sea en persona o por llamada. si después de esto quedaron algunos acuerdo estos se pueden dar por escrito.
+Mientras más complicado sea el tema es mejor comunicarlo verbalmente, ya sea en persona o por llamada. Si después de esto quedaron algunos acuerdos, estos se pueden dar por escrito.
 
-Finalmente lo mas importante que debes recordar:
+Finalmente lo más importante que debes recordar:
 
-**Sin importar como te comunices con tu equipo, asegurate de comunicarte con respeto y empatia.
+**Sin importar como te comuniques con tu equipo, asegurate de comunicarte con respeto y empatía.
