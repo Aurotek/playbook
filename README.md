@@ -22,20 +22,20 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
 * Talento
   * Onboarding
   * [Offboarding](talento/offboarding.md)
-  * [Guia para juntas 1 a 1](talento/1a1.md)
+  * [Guía para juntas 1 a 1](talento/1a1.md)
 * Producto
   * Documentos de diseño
   * Diseño y branding
-  * Guia de diseño gráfico
+  * Guía de diseño gráfico
 * Comunicación
-  * [Guia de slack](general/slack.md)
+  * [Guía de slack](general/slack.md)
 
 ## Contribuir
 
-Esta guia es de todos, así que puedes editara. Una vez que la hayas leido ayúdanos a hacerla mejor para los demás. Sugiere nuevas secciones o cambia las existentes. Agrega cosas al temario. O si no te sientes cómodo haciendo cambios levanta issues con tus comentarios y sugerencias. Nosotros en conjunto revisaremos los cambios y los publicaremos para futuras versiones.
+Esta guía es de todos, así que puedes editara. Una vez que la hayas leido ayúdanos a hacerla mejor para los demás. Sugiere nuevas secciones o cambia las existentes. Agrega cosas al temario. O si no te sientes cómodo haciendo cambios levanta issues con tus comentarios y sugerencias. Nosotros en conjunto revisaremos los cambios y los publicaremos para futuras versiones.
 
 Todas las [contribuciones](https://github.com/Aurotek/playbook/issues) son bienvenidas, si estás interesado por favor revisa nuestra
- [Guia para contribuir](desarrollo/documents/CONTRIBUTING.md).
+ [Guía para contribuir](desarrollo/documents/CONTRIBUTING.md).
 
 ## Código de conducta
 

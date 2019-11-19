@@ -4,7 +4,7 @@ Contribuir a que nuestros clientes y aliados mejoren su productividad, rentabili
 
 ## Visión
 
-Promover actividades de investigación y desarrollo tecnológico de vanguardia, que nos permitan producir y ofrecer al mercado global, productos, soluciones y servicios, oportunos, confiables y novedosos con la mas alta relación beneficio a costo.
+Promover actividades de investigación y desarrollo tecnológico de vanguardia, que nos permitan producir y ofrecer al mercado global, productos, soluciones y servicios, oportunos, confiables y novedosos con la más alta relación beneficio a costo.
 
 ## Valores
 

@@ -4,7 +4,7 @@ La forma de contribuir a cualquier proyecto de Auronix es mediante [Pull Request
 
 En este documento se definen las convenciones que seguimos en el flujo de trabajo y ofrecemos ligas a guías para hacer mas fácil que aceptemos tus contribuciones.
 
-Para contribuir se asume que estas familiarizado con Git y Github. Puedes aprender [en la guia de Github](https://guides.github.com/introduction/git-handbook/)
+Para contribuir se asume que estas familiarizado con Git y Github. Puedes aprender [en la guía de Github](https://guides.github.com/introduction/git-handbook/)
 
 ## Cómo contribuir
 
@@ -39,7 +39,7 @@ El formato se puede describir formalmente como:
 <paquete>: <subpaquete>, <Descripción>. [Fixes #<issue-number>]
 ```
 
-Debes asegurarte de que la descripción sea clara y concisa, por regla general debe poder contestar la pregunta ¿que va a pasar cuando este commit se acepte?
+Debes asegurarte de que la descripción sea clara y concisa, por regla general debe poder contestar la pregunta ¿qué va a pasar cuando este commit se acepte?
 
 ```
 Ejemplo de descrpición mala:
@@ -51,7 +51,7 @@ Ejemplo de descripción buena:
 Se valida que el usuario exista antes de obtener mensajes.
 ```
 
-Puedes aprender mas de cómo escribir mensajes claros [aquí](https://chris.beams.io/posts/git-commit/).
+Puedes aprender más de cómo escribir mensajes claros [aquí](https://chris.beams.io/posts/git-commit/).
 
-pro-tip: si durante el desarrollo hiciste muchos commits puedes condensarlo en uno solo con `git rebase -i HEAD~[N]` ([mas info](https://www.internalpointers.com/post/squash-commits-into-one-git))
+pro-tip: si durante el desarrollo hiciste muchos commits puedes condensarlo en uno solo con `git rebase -i HEAD~[N]` ([más info](https://www.internalpointers.com/post/squash-commits-into-one-git))
 

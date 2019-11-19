@@ -16,11 +16,11 @@ Una vez que tengas que empezar a desarrollar algo, empieza por asegurarte que en
 
 Todo nuevo desarrollo debe crearse apartir de la última versión funcionando del código. Para eso usamos git-flow. Cada nuevo feature debe salir de develop.
 
-Una vez que hayas terminado tu feature, debes crear un Pull Request Que incluya todos tus cambios para que el equipo pueda revisarlo.
+Una vez que hayas terminado tu feature, debes crear un Pull Request que incluya todos tus cambios para que el equipo pueda revisarlo.
 
 El lider del equipo es el que tiene la responsabilidad, de una vez que hayan pasado el code review integrar tus cambios a develop.
 
-Todo esto se explica más a fondo en la [Guia para contribuir](desarrollo/documents/CONTRIBUTING.md).
+Todo esto se explica más a fondo en la [Guía para contribuir](desarrollo/documents/CONTRIBUTING.md).
 
 En los casos donde lo que se te asignó sea muy complejo o afecte a muchos módulos, es mejor partirlo en cambios imcrementales que se puedan ir entregando gradualmente. Esto nos permite evitar PR donde haya que revisar decenas de archivos con centenas de cambios.
 
@@ -36,13 +36,13 @@ Adicionalmente, cada PR debe venir acompañado de pruebas unitarias.
 
 Una vez que el PR se aprueba y pasa a develop, un sistema de integración continua debe publicar tus cambios en un entorno de pruebas (a esto solemos llamarle integración).
 
-Es importante que el programado pruebe de nuevos sus features en integración.
+Es importante que el programador pruebe de nuevos sus features en integración.
 
 Aparte de las pruebas unitarias el equipo de QA realiza una serie de pruebas de integración para asegurarse que todo siga funcionando, cada que QA encuentre un error se lo reportará al equipo apra que se solucione a la brevedad. Desde el momento en que se reporta y hasta que se corrija se considera que "el build está roto" lo que significa que no podemos liberar nada hasta que se solucione. Es como si pararamos la linea de producción.
 
 ### Deploy
 
-Una vez que QA dio su visto bueno, se planea la liberación a producción. Mientras menos tiempo pase entre la definición y la liberación mas rápido estamos entregando software funcional a nuestros clientes. Ese es nuestro objetivo.
+Una vez que QA dio su visto bueno, se planea la liberación a producción. Mientras menos tiempo pase entre la definición y la liberación más rápido estamos entregando software funcional a nuestros clientes. Ese es nuestro objetivo.
 
 ### Feedback
 
