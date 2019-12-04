@@ -22,6 +22,7 @@ Puedes basarte en pruebas existentes o apoyarte con algún compañero.
 
 Aquí hay algunos links con información que te puede ayudar:
 
+* [Notas sobre Unit testing](unit_testing.md)
 * [TDD Guia para los no iniciados](http://artesanos.de/software/2012/02/13/tdd-como-y-porque-una-guia-para-los-no-iniciados/)
 * [Curso de TDD para laravel](https://laracasts.com/skills/testing) (existe una cuenta de Auronix para poder verlos)
 * [Curso de TDD para C#](https://www.c-sharpcorner.com/article/test-driven-development-tdd-part-one/)
