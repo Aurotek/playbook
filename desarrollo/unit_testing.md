@@ -1,116 +1,117 @@
-# Recomendaciones Para Pruebas Unitarias
+# Recomendaciones para pruebas unitarias
 
 ## Reglas
 
-1. NO ESCRIBIRAS CODIGO para produccion HASTA que hayas ESCRITO un TEST UNITARIO que FALLE
-1. NO ESCRIBIRAS MAS de UN TEST UNITARIO que sea necesario para FALLAR, y NO COMPILAR es FALLAR
-1. NO ESCRIBIRAS MAS CODIGO para produccion del NECESARIO para PASAR el TEST ACTUAL que falla
+1. NO ESCRIBIRÁS CÓDIGO para producción HASTA que hayas ESCRITO un TEST UNITARIO que FALLE.
+1. NO ESCRIBIRÁS MÁS de UN TEST UNITARIO que sea necesario para FALLAR, y NO COMPILAR es FALLAR.
+1. NO ESCRIBIRÁS MÁS CÓDIGO para producción del NECESARIO para PASAR el TEST ACTUAL que falla.
      
-## Manten El Test Limpio
+## Mantén el test limpio
 
-* Debe cambiar a medida que el codigo de produccion evolucione
-* Entre mas sucio, mas dificil sera modificar
-* Entre mas enredado, es mas probable que dediques mas tiempo
+* Debe cambiar a medida que el código de producción evolucione.
+* Entre más sucio, más dificil será modificar.
+* Entre más enredado, es más probable que dediques más tiempo.
     
-## Sin Test (caida Al Caos)
+## Sin Test (Caída al caos)
 
-1. No podras asegurar que los cambios a una parte del sistema no rompar otros componentes
-1. La cantidad de fallas se incrementaran
-1. Cuando el numero de fallas no intencionadas aumente, temeras hacer nuevos cambios
+1. No podrás asegurar que los cambios a una parte del sistema no romperá otros componentes.
+1. La cantidad de fallas se incrementarán.
+1. Cuando el número de fallas no intencionadas aumente, temerás hacer nuevos cambios.
     
-Resultado: "un juego de serpientes y escaleras" codigo enredado y lleno de bugs... que se transforma en frustacion, y el sentimiento de que el esfuerzo de hacer testing nos ha fallado
+Resultado: "Un juego de serpientes y escaleras" código enredado y lleno de bugs... que se transforma en frustración, y el sentimiento de que el esfuerzo de hacer testing nos ha fallado.
         
-    TEST PERMITE UNA DIRECCION AL CAMBIO
+    TEST PERMITE UNA DIRECCIÓN AL CAMBIO
     
-## ¿que Es Lo Que Hace A Un "test Limpio"?
+## ¿Qué hace a un "Test Limpio"?
 
 Las tres eles:
-* legibilidad (claridad)
-* legibilidad (simpiclidad)
-* legibilidad (densidad de expresion)
+* Legibilidad (claridad)
+* Legibilidad (simpiclidad)
+* Legibilidad (densidad de expresión)
         
-Querras decir mucho con unas pocas expresiones, en medida de lo posible
+Querrás decir mucho con unas pocas expresiones, en medida de lo posible.
     
     EVITAR
         Evitar inundar al lector con un enjambre de detalles que deben ser
-        entendidos antes de que el test tenga sentido
+        entendidos antes de que el test tenga sentido.
         
-## Lenguaje Especifico Del Test
+## Lenguaje específico del test
 
 En lugar de utilizar la API para manipular el sistema, escribe un conjunto
-de funciones y utilidades que utilicen la API
+de funciones y utilidades que utilicen la API.
 
-Las funciones/utilidades ayudaran a quienes deban leer los test despues
+Las funciones/utilidades ayudarán a quienes deban leer los test después.
 
-Refactoriza el test en formas mas expresivas y breves
+Refactoriza el test en formas más expresivas y breves.
     
-## Estandar
+## Estándar
 
-El codigo para el test no necesita ser mas eficiente que el codigo para
-produccion
+El código para el test no necesita ser más eficiente que el código para
+producción.
 
 Ya que ambos entornos tienen diferentes necesidades, hay cosas que nunca
-deberias hacer en el entorno de produccion que esta perfectamente bien
-en un entorno de test. Usualment esos detalles estan realcionados con
-memoria o eficiencia en CPU... pero nunca con detalles de limpieza
+deberías hacer en el entorno de producción que esta perfectamente bien
+en un entorno de test. Usualmente esos detalles están realcionados con
+memoria o eficiencia en CPU... pero nunca con detalles de limpieza.
     
-## Un "assert" Por Test
+## Un "assert" por Test
 
-Es mas facil y rapido de entender
+Es más facil y rápido de entender.
 
 En caso de necesitar multiples "asserts", puedes separar el test y que cada
-uno de ellos tenga su "assert" particular... Aun que esto podria llevar a
-duplicdad* de codigo (posibles soluciones: Template Method pattern o crear
-clases separadas... lo cual parece demasiado para un detalle menor)
+uno de ellos tenga su "assert" particular... Aunque esto podría llevar a
+duplicidad* de código (posibles soluciones: Template Method pattern o crear
+clases separadas... lo cual parece demasiado para un detalle menor).
     
-## Un Concepto Por Test
-Un mejor consejo seria: minimiza el numero de "asserts" por concepto
-y hacer test de un solo concepto por funcion
+## Un concepto por Test
+Un mejor consejo seria: minimiza el número de "asserts" por concepto
+y hacer test de un solo concepto por función.
+
 ## F.i.r.s.t.
-* **Fast**: DEBE CORRER RAPIDO... de lo contrario no correras los test frecuentemente,
-    y no enncontraras problemas lo suficientemente antes para arreglarlos
-    facilmente
+* **Fast**: DEBE CORRER RÁPIDO... de lo contrario no correrás los test frecuentemente,
+    y no enncontrarás problemas lo suficientemente antes para arreglarlos
+    facilmente.
         
-* **Independent**: NO DEBERA DEPENDER DE OTRO TEST... un test no deberia preparar
-        las condiciones para el siguiente test... DEBERAN CORRER EN CUALQUIER
-        ORDEN
+* **Independent**: NO DEBERÁ DEPENDER DE OTRO TEST... un test no debería preparar
+        las condiciones para el siguiente test... DEBERÁN CORRER EN CUALQUIER
+        ORDEN.
         
-* **Repeatable**: DEBERAN SER REPETIBLES EN CUALQUIER ENTORNO... incluso sin red.
-        si no lo son, siempre tendras una excusa del por que fallan y no tendras
-        la posiblidad de correr los test cuando el entorno no este disponible
+* **Repeatable**: DEBERÁN SER REPETIBLES EN CUALQUIER ENTORNO... incluso sin red.
+        si no lo son, siempre tendrás una excusa del por que fallan y no tendrás
+        la posiblidad de correr los test cuando el entorno no esté disponible.
     
-* **Self-Validating**: DEBE TENER UNA SALIDA BOLEANA... de lo contrario la falla
-        sera subjetiva y al correr los test requerira de evaluacion manual
+* **Self-Validating**: DEBE TENER UNA SALIDA BOOLEANA... de lo contrario la falla
+        será subjetiva y al correr los test requerirá de evaluación manual.
     
-* **Timely**: DEBE SER ESCRITO ANTES QUE EL CODIGO de produccion... de lo contrario
-        el codigo de produccion sera mas dificil de probar o podrias escribir
-        codigo no testeable
+* **Timely**: DEBE SER ESCRITO ANTES QUE EL CÓDIGO de producción... de lo contrario
+        el código de producción será más dificil de probar o podrías escribir
+        código no testeable
 
 
 ## Conclusión
 
-Los test preservan y mejoran la flexibilidad, mantenimiento y reutilizacion
-del codigo de produccion
+Los test preservan y mejoran la flexibilidad, mantenimiento y reutilización
+del código de producción.
     
     COSAS PARA RECORDAR
-        limpieza
-        breve y expresivo
-        inventa tu testing API que actue como lenguaje especifico
-        NO PERMITAS QUE LOS TEST SE PUDRAN!!
+        Limpieza
+        Breve y expresivo
+        Inventa tu testing API que actúe como lenguaje específico
+        ¡NO PERMITAS QUE LOS TEST SE PUDRAN!
         
         Duplicidad: 
-          Algunos terminos por otros:
+          Algunos términos por otros:
             DRY (don't repeat yourself)
             Once, and only once
         
-    Representa un oportunidad perdida para abstraccion
+    Representa una oportunidad perdida para abstracción
     Eliminandola incrementas el vocabulario del lenguaje de tu diseño y otros
-        pueden usar las facilidades que tu creaste.
-        El hacer codigo se vuleve mas rapido y menos propenso a errores, por
-        que has subido el nivel de abstraccion
+        pueden usar las facilidades que tú creaste.
+        El hacer código se vuelve más rápido y menos propenso a errores, por
+        que has subido el nivel de abstracción.
         
-    Formas obvias de duplicacion:
-        Cumulos de codigo identico... Solucion: metodos simples
-        Switch/Case o If/Else que aparecen una y otra vez... Solucion: polimorfismo
-        Modulos que tienen algoritmos similares pero que no comparten las mismas
-            lineas de codigo... Solucion: Template Method, Strategy Patterns
+    Formas obvias de duplicación:
+        Cúmulos de código idéntico... Solución: métodos simples
+        Switch/Case o If/Else que aparecen una y otra vez... Solución: polimorfismo
+        Módulos que tienen algoritmos similares pero que no comparten las mismas
+            líneas de código... Solución: Template Method, Strategy Patterns
