@@ -19,7 +19,9 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * [Metodología](desarrollo/agil.md)
   * [Flujo de trabajo](desarrollo/flujo.md)
   * [Test Driven Development](desarrollo/tdd.md)
-* Oficinas
+* Trabajo Remoto
+  * [Covid-19](remoto/covid-19.md)
+  * [Home office](remoto/homeoffice.md)
 * Talento
   * Onboarding
   * [Offboarding](talento/offboarding.md)
