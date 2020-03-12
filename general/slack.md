@@ -1,10 +1,10 @@
 # Slack
 
-Usamos Slack como nuestro canal oficial de comunicación. Es importante que durante tu jornada laboral estés conectado para que el equipo te pueda contactar.
+Usamos [Slack](https://auronixworkspace.slack.com/) como nuestro canal oficial de comunicación. Es importante que durante tu jornada laboral estés conectado para que el equipo te pueda contactar.
 
 ## Organizar la comunicación mediante canales
 
-Para mantener Slack organizado y fácil de digerir, cada proyecto debe tener su propio canal. Esto nos asegura que solo las miembros relevantes del equipo esten enterados y reciban las notificaciones. También se recomienda tener canales separados para temas en específico.
+Para mantener Slack organizado y fácil de digerir, cada proyecto debe tener su propio canal. Esto nos asegura que solo las miembros relevantes del equipo estén enterados y reciban las notificaciones. También se recomienda tener canales separados para temas en específico.
 
 La mayoría de los canales son públicos, esto quiere decir que lo que cualquier miembro puede entrar a ver lo que se platicó, se conciente de esto y evita poner cosas que no dirias en persona o que alguien podría considerar ofensivo.
 
