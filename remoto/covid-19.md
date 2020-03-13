@@ -16,7 +16,7 @@ Si no encuentras la respuesta a tu pregunta asegurate de documentar cómo lo sol
 ## Plan de comunicación
 Es importante que cada equipo defina la manera en que puedan mantener una comunicación entre ellos lo mas parecido a lo que hacen día a día a en la oficina.
 
-Se puede implementar una sala de video conferencia siempre prendida por cada equipo donde cada miembro pueda entrar y salir como lo necesiten. Esta simulación ayuda a aclimatarse y ayuda a mantener el nivel de comunicación informal que de tiene en la oficina.
+Se puede implementar una sala de video conferencia siempre activa por cada equipo donde cada miembro pueda entrar y salir en cualquier momento. Esta simulación ayuda a aclimatarse y ayuda a mantener el nivel de comunicación informal que se tiene en la oficina.
 
 ## Minimizar el número de herramientas
 Es importante no tener muchas herramientas. El mínimo recomentado es:
@@ -26,5 +26,7 @@ Es importante no tener muchas herramientas. El mínimo recomentado es:
 
 La comunucación escrita es crucial para una colaboración remota efectiva. Este es el punto que mas trabajo le cuesta a las empresas que no tienen la cultura de documentar. Intentemos mantener la información en el menor numero de lugares posibles, para reducir los silos y la fragmentación.
 
-## Empujar el cambio
-La reaccion al cambio es algo natural de los humanos. Cuando las circunstancias nos forzan el cambio es importante que los líderes mantengan una actitud de 
+## Empujar el cambio cultural
+La reacción al cambio es algo natural de los humanos. Cuando las circunstancias nos forzan el cambio es importante que los líderes mantengan una actitud positiva y afrontar esta nueva realidad buscando como hacerlo funcionar con las herramientas que tenemos actualmente.
+
+Manejar un equipo remoto es igual a manejar cualquier compañía. Todo se reduce a **cofianza, comunicación y tener alineados los objetivos individuales con los de la empresa**
