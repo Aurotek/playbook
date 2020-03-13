@@ -1,3 +1,5 @@
+[volver al inicio](../)
+
 # Plan de emergencia para trabajar desde casa: 
 Debido al reciente aumento de casos de COVID-19 es importante que estemos preparados para poder enfrentar el reto de trabajar desde casa.
 
@@ -7,6 +9,8 @@ A continuación se muestran 5 cosas que podemos empezar a hacer desde hoy para p
 El equipo de lideres remoto es el encargado de ayudar durante la transición a un trabajo remoto, este equipo está conformado por un líder de cada equipo(por definir), Alexis Cervantes y Majo Franco.
 
 Su principal responsabilidad es aseguarse que todos los miembros de su equipo tienen muy claros sus objetivos y documentar los problemas que van saliendo a consecuencia del trabajo remoto, prioritizarlos y asignar responables para resolverlos.
+
+Todos deben leer la [guia para lideres de equipos remotos](lider-remoto.md).
 
 ## Definir un manual
 El playbook de Auronix sirve como la única fuente de verdad, es donde puedes venir a buscar respuestas a cualquier duda que tengas sobre el trabajo remoto. El objetivo del playbook es crear un entorno donde las soluciones a problemas están documentadas en un lugar accesible por todos. [Aqui puedes leer mas sobre la importantancia tener un playbook](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
@@ -30,3 +34,5 @@ La comunucación escrita es crucial para una colaboración remota efectiva. Este
 La reacción al cambio es algo natural de los humanos. Cuando las circunstancias nos forzan el cambio es importante que los líderes mantengan una actitud positiva y afrontar esta nueva realidad buscando como hacerlo funcionar con las herramientas que tenemos actualmente.
 
 Manejar un equipo remoto es igual a manejar cualquier compañía. Todo se reduce a **confianza, comunicación y tener alineados los objetivos individuales con los de la empresa**
+
+[volver al inicio](../)
