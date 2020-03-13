@@ -1,3 +1,5 @@
+[volver al inicio](../)
+
 # Trabajar desde casa
 
 Esta guia ayuda a entender mejor lo que significa trabajar desde casa y los retos que implica. Ofrece algunos tips si es las primera vez que vas a trabajar en esta modalidad.
@@ -48,3 +50,6 @@ Esta junta se le conoce como “daily” y el equipo de desarrollo la ha usado c
 *   Si tienes niños, plática con ellos para explicarles que aunque estás en casa, estás trabajando y procurar que mientras estés en tu “cuarto de trabajo” no te distraigan.
 *   Recurre a videollamadas en lugar de chat o llamada telefónica. Poder verle la cara a tu colega ayuda a evitar malentendidos. (solo recuerda poner por escrito todos los acuerdos hablados)
 * Puedes leer mas tips [aqui](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf?hsCtaTracking=19bf7893-d507-43ee-b95d-27db481eda82%7C7b087ca9-93ba-4c04-9490-f5b4ebca5aec)
+
+
+[volver al inicio](../)
