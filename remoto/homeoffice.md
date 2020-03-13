@@ -17,6 +17,8 @@ Es importante reconocer que en algunas ocasiones el trabajo de otros dependen de
  * Define un horario fijo de trabajo y comprometete a el con tu equipo.
  * Si mantienes comunicación con clientes no es necesario informarles que no estás en la oficina. Asegurate de mantener la relación con los clientes igual, no queremos que bajen sus expectativas solo por que nuestra oficina es nuestra casa.
  * Para el equipo de desarrollo definan una hora para hacer el daily y haganlo por video llamada.
+ * Si durante el día tienes algún problema que no te permite hacer tu trabajo o te está alentando, avísale a tu (líder)[covid-19.md#establecer-un-equipo-de-líderes-remotos] para que juntos busquen una solución y la documenten.
+ * Cualquier acuerdo hecho por chat o por llamada debe quedar documentando en un lugar mas formal para que las personas que no participaron en esa discución puedan saber lo que sucedió.
  
  
 ## Tips de personas que han trabajado desde casa antes
