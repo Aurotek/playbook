@@ -31,7 +31,7 @@ Esta junta se le conoce como “daily” y el equipo de desarrollo la ha usado c
 *   Define un horario fijo de trabajo y comprométete con tu equipo.
 *   Si mantienes comunicación con clientes asegúrate de mantener la relación con los clientes igual, no queremos que bajen sus expectativas solo por que nuestra oficina es nuestra casa.
 *   Si durante el día tienes algún problema que no te permite hacer tu trabajo o te está alentando, avísale a tu [líder
-](/covid-19.md#establecer-un-equipo-de-líderes-remotos) para que juntos busquen una solución y la documenten.
+](covid-19.md#establecer-un-equipo-de-líderes-remotos) para que juntos busquen una solución y la documenten.
 *   Cualquier acuerdo hecho por chat o por llamada debe quedar documentado en un lugar más formal para que las personas que no participaron en esa discusión puedan saber lo que sucedió.
 
 
