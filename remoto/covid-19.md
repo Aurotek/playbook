@@ -29,4 +29,4 @@ La comunucación escrita es crucial para una colaboración remota efectiva. Este
 ## Empujar el cambio cultural
 La reacción al cambio es algo natural de los humanos. Cuando las circunstancias nos forzan el cambio es importante que los líderes mantengan una actitud positiva y afrontar esta nueva realidad buscando como hacerlo funcionar con las herramientas que tenemos actualmente.
 
-Manejar un equipo remoto es igual a manejar cualquier compañía. Todo se reduce a **cofianza, comunicación y tener alineados los objetivos individuales con los de la empresa**
+Manejar un equipo remoto es igual a manejar cualquier compañía. Todo se reduce a **confianza, comunicación y tener alineados los objetivos individuales con los de la empresa**
