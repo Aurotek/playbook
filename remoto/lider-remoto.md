@@ -1,4 +1,5 @@
-# Guia para lideres de equipos remotos
+[volver al inicio](../)
+# Guia para líderes de equipos remotos
 
 Este documento contiene toda la información necesaria para poder administrar un equipo remoto.
 
