@@ -21,7 +21,7 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * [Test Driven Development](desarrollo/tdd.md)
 * Trabajo Remoto
   * [Covid-19](remoto/covid-19.md)
-  * [Guia para lideres de equipos remotos](lider-remoto.md).
+  * [Guia para líderes de equipos remotos](remoto/lider-remoto.md).
   * [Guia para trabajar desde casa](remoto/homeoffice.md)
 * Talento
   * Onboarding
