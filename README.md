@@ -21,8 +21,8 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * [Test Driven Development](desarrollo/tdd.md)
 * Trabajo Remoto
   * [Covid-19](remoto/covid-19.md)
-  * [Guia para líderes de equipos remotos](remoto/lider-remoto.md).
-  * [Guia para trabajar desde casa](remoto/homeoffice.md)
+  * [Guía para líderes de equipos remotos](remoto/lider-remoto.md).
+  * [Guía para trabajar desde casa](remoto/homeoffice.md)
 * Talento
   * Onboarding
   * [Offboarding](talento/offboarding.md)
@@ -36,7 +36,7 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
 
 ## Contribuir
 
-Esta guía es de todos, así que puedes editara. Una vez que la hayas leido ayúdanos a hacerla mejor para los demás. Sugiere nuevas secciones o cambia las existentes. Agrega cosas al temario. O si no te sientes cómodo haciendo cambios levanta issues con tus comentarios y sugerencias. Nosotros en conjunto revisaremos los cambios y los publicaremos para futuras versiones.
+Esta guía es de todos, así que puedes editala. Una vez que la hayas leído ayúdanos a hacerla mejor para los demás. Sugiere nuevas secciones o cambia las existentes. Agrega cosas al temario. O si no te sientes cómodo haciendo cambios levanta issues con tus comentarios y sugerencias. Nosotros en conjunto revisaremos los cambios y los publicaremos para futuras versiones.
 
 Todas las [contribuciones](https://github.com/Aurotek/playbook/issues) son bienvenidas, si estás interesado por favor revisa nuestra
  [Guía para contribuir](desarrollo/documents/CONTRIBUTING.md).

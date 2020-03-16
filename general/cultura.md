@@ -1,4 +1,4 @@
-Desde 1994, Auronix ha sido una compañía que crea tecnología. Desde entonces sabíamos que para hacer grandes productos primero teníamos que crear un ambiente donde se fomente al equipo. Un lugar donde las personas talentosas son emporedadas para que den lo mejor de su trabajo en las manos de nuestros clientes.
+Desde 1994, Auronix ha sido una compañía que crea tecnología. Desde entonces sabíamos que para hacer grandes productos primero teníamos que crear un ambiente donde se fomente al equipo. Un lugar donde las personas talentosas son empoderadas para que den lo mejor de su trabajo en las manos de nuestros clientes.
 
 Queremos crear una cultura donde todos los miembros puedan trabajar sin obstáculos para que se concentren en hacer lo que mejor saben.
 

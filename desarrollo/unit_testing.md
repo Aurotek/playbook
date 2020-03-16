@@ -9,7 +9,7 @@
 ## Mantén el test limpio
 
 * Debe cambiar a medida que el código de producción evolucione.
-* Entre más sucio, más dificil será modificar.
+* Entre más sucio, más difícil será modificar.
 * Entre más enredado, es más probable que dediques más tiempo.
     
 ## Sin Test (Caída al caos)
@@ -26,7 +26,7 @@ Resultado: "Un juego de serpientes y escaleras" código enredado y lleno de bugs
 
 Las tres eles:
 * Legibilidad (claridad)
-* Legibilidad (simpiclidad)
+* Legibilidad (simplicidad)
 * Legibilidad (densidad de expresión)
         
 Querrás decir mucho con unas pocas expresiones, en medida de lo posible.
@@ -51,14 +51,14 @@ producción.
 
 Ya que ambos entornos tienen diferentes necesidades, hay cosas que nunca
 deberías hacer en el entorno de producción que esta perfectamente bien
-en un entorno de test. Usualmente esos detalles están realcionados con
+en un entorno de test. Usualmente esos detalles están relacionados con
 memoria o eficiencia en CPU... pero nunca con detalles de limpieza.
     
 ## Un "assert" por Test
 
-Es más facil y rápido de entender.
+Es más fácil y rápido de entender.
 
-En caso de necesitar multiples "asserts", puedes separar el test y que cada
+En caso de necesitar múltiples "asserts", puedes separar el test y que cada
 uno de ellos tenga su "assert" particular... Aunque esto podría llevar a
 duplicidad* de código (posibles soluciones: Template Method pattern o crear
 clases separadas... lo cual parece demasiado para un detalle menor).
@@ -69,8 +69,8 @@ y hacer test de un solo concepto por función.
 
 ## F.i.r.s.t.
 * **Fast**: DEBE CORRER RÁPIDO... de lo contrario no correrás los test frecuentemente,
-    y no enncontrarás problemas lo suficientemente antes para arreglarlos
-    facilmente.
+    y no encontrarás problemas lo suficientemente antes para arreglarlos
+    fácilmente.
         
 * **Independent**: NO DEBERÁ DEPENDER DE OTRO TEST... un test no debería preparar
         las condiciones para el siguiente test... DEBERÁN CORRER EN CUALQUIER
@@ -78,13 +78,13 @@ y hacer test de un solo concepto por función.
         
 * **Repeatable**: DEBERÁN SER REPETIBLES EN CUALQUIER ENTORNO... incluso sin red.
         si no lo son, siempre tendrás una excusa del por que fallan y no tendrás
-        la posiblidad de correr los test cuando el entorno no esté disponible.
+        la posibilidad de correr los test cuando el entorno no esté disponible.
     
 * **Self-Validating**: DEBE TENER UNA SALIDA BOOLEANA... de lo contrario la falla
         será subjetiva y al correr los test requerirá de evaluación manual.
     
 * **Timely**: DEBE SER ESCRITO ANTES QUE EL CÓDIGO de producción... de lo contrario
-        el código de producción será más dificil de probar o podrías escribir
+        el código de producción será más difícil de probar o podrías escribir
         código no testeable
 
 
@@ -105,7 +105,7 @@ del código de producción.
             Once, and only once
         
     Representa una oportunidad perdida para abstracción
-    Eliminandola incrementas el vocabulario del lenguaje de tu diseño y otros
+    Eliminándola incrementas el vocabulario del lenguaje de tu diseño y otros
         pueden usar las facilidades que tú creaste.
         El hacer código se vuelve más rápido y menos propenso a errores, por
         que has subido el nivel de abstracción.
