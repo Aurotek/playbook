@@ -1,5 +1,5 @@
 [volver al inicio](../)
-# Guia para líderes de equipos remotos
+# Guía para líderes de equipos remotos
 
 Este documento contiene toda la información necesaria para poder administrar un equipo remoto.
 
@@ -70,7 +70,7 @@ La seguridad de la información de la empresa y de nuestros clientes es responsa
 
 ### Equipo de cómputo y accesos
 
-Asegurate que todos tienen manera de realizar sus actividades desde casa, esto es cosas como que tengan un equipo de cómputo, conexión a internet, manera de conectarse (cumpliendo las políticas de seguridad) a los sistemas necesarios.
+Asegúrate que todos tienen manera de realizar sus actividades desde casa, esto es cosas como que tengan un equipo de cómputo, conexión a internet, manera de conectarse (cumpliendo las políticas de seguridad) a los sistemas necesarios.
 
 ### Responsiva de equipo de computo
 
@@ -82,11 +82,11 @@ Desde el día 1 es importante tener un lugar donde poder ir documentando todos l
 
 Por cada incidente se debe responder al menos las siguientes preguntas
 
-*   ¿qué pasó?
-*   ¿cuándo ocurrió?
-*   ¿cómo nos afectó?
-*   ¿cómo lo solucionamos o lo vamos a solucionar?
-*   ¿quién es el responsable de solucionarlo?
+*   ¿Qué pasó?
+*   ¿Cuándo ocurrió?
+*   ¿Cómo nos afectó?
+*   ¿Cómo lo solucionamos o lo vamos a solucionar?
+*   ¿Quién es el responsable de solucionarlo?
 
 ## Checklist diario
 
@@ -133,18 +133,18 @@ Es tu responsabilidad ayudar a resolver los impedimentos del equipo y documentar
 
 Si durante la junta la gente empieza a discutir o se desvían del objetivo de la junta pídeles que le den seguimiento al finalizar la junta para no tener a todos esperando.
 
-Si notas que alguien dice una frase como esta “Ayer estuve trabajando en la licitación de X y hoy voy a seguir trabajando en eso”. Pídele que sea más específico, ¿en qué avanzó ayer sobre la licitación y hasta donde va a terminar el día de hoy?
+Si notas que alguien dice una frase como esta “Ayer estuve trabajando en la licitación de X y hoy voy a seguir trabajando en eso”. Pídele que sea más específico, ¿En qué avanzó ayer sobre la licitación y hasta donde va a terminar el día de hoy?
 
 Esta junta va a ayudar a que los miembros desde el principio tengan claro su objetivo del día y que comuniquen eficientemente los posibles problemas.
 
 ### Definición de objetivos
 
-Si notas que alguien no tiene claros sus objetivos inmediatos es probable que no sepa cuales son los objetivos a mediano y largo plazo, acércate con él individualmente y asegurense de definir objetivos claros.
+Si notas que alguien no tiene claros sus objetivos inmediatos es probable que no sepa cuales son los objetivos a mediano y largo plazo, acércate con él individualmente y asegúrense de definir objetivos claros.
 
 ### Resolución de problemas
 
-Toma nota de todas los impedimentos que el equipo externé durante la junta diaria, muchas veces ni siquiera ellos son conscientes. Una buena forma de percatarse de un impedimento oculto es cuando alguien dice que va a acabar algo un día y en la siguiente junta dice que no pudo. Ahí es un buen momento para ver qué cosas aún no se han adaptado a la rutina remota y ayudar a buscar soluciones. No olvides documentar todo en el documento de resolución de problemas.
+Toma nota de todas los impedimentos que el equipo externe durante la junta diaria, muchas veces ni siquiera ellos son conscientes. Una buena forma de percatarse de un impedimento oculto es cuando alguien dice que va a acabar algo un día y en la siguiente junta dice que no pudo. Ahí es un buen momento para ver qué cosas aún no se han adaptado a la rutina remota y ayudar a buscar soluciones. No olvides documentar todo en el documento de resolución de problemas.
 
 ### Comunicación efectiva
 
-El más común de los errores será enseñar al equipo a comunicarse efectivamente, asegurate de que la gente esté utilizando los canales correctos dependiendo del tipo de información que quieren compartir. no permitas que se usen canales públicos para discusiones entre dos personas y asegurate que cualquier acuerdo quede por escrito para que todo el equipo esté en el mismo canal.
+El más común de los errores será enseñar al equipo a comunicarse efectivamente, asegúrate de que la gente esté utilizando los canales correctos dependiendo del tipo de información que quieren compartir. no permitas que se usen canales públicos para discusiones entre dos personas y asegúrate que cualquier acuerdo quede por escrito para que todo el equipo esté en el mismo canal.

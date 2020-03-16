@@ -3,15 +3,15 @@ Cuando alguien se va :'( es necesario quitarle acceso a todas las herramientas.
 Esta tarea es responsabilidad de Karla
 
  * Usuarios del portal
- * Usuario de calixtachat
+ * Usuario de Calixtachat
  * Trello
  * Slack
  * Github
  * AWS
  * Forge
- * Grupos de whatsapp
+ * Grupos de Whatsapp
  * Grupos de Skype
- * Documentos de google drive
+ * Documentos de Google Drive
  * Cuenta de correo
  * Listas de difusión de correo
  * Sentry

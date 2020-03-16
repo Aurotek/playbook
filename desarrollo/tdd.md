@@ -23,8 +23,8 @@ Puedes basarte en pruebas existentes o apoyarte con algún compañero.
 Aquí hay algunos links con información que te puede ayudar:
 
 * [Notas sobre Unit testing](unit_testing.md)
-* [TDD Guia para los no iniciados](http://artesanos.de/software/2012/02/13/tdd-como-y-porque-una-guia-para-los-no-iniciados/)
-* [Curso de TDD para laravel](https://laracasts.com/skills/testing) (existe una cuenta de Auronix para poder verlos)
+* [TDD Guía para los no iniciados](http://artesanos.de/software/2012/02/13/tdd-como-y-porque-una-guia-para-los-no-iniciados/)
+* [Curso de TDD para Laravel](https://laracasts.com/skills/testing) (existe una cuenta de Auronix para poder verlos)
 * [Curso de TDD para C#](https://www.c-sharpcorner.com/article/test-driven-development-tdd-part-one/)
 * [Usar NUnit en C#](https://www.youtube.com/watch?v=nOCnmr7JrSo)
 
@@ -32,17 +32,17 @@ Aquí hay algunos links con información que te puede ayudar:
 
 **Hacer pruebas es muy tardado ¿Puedo saltármelas si es algo urgente?**
 
-Esta es la excusa más común para no hacer pruebas y es muy peligrosa. Muchas veces sacrificamos calidad del código por la prisa, lo que se refleja en bugs en producción y tiempo en corregirlo, esto se multiplica mientras mas código sin pruebas haya en el proyecto ya que en cada nuevo cambio debemos asegurarnos de que no rompimos nada mas. Segun varios estudios las compañías que adoptan TDD pueden reducir entre 40% y 90% la cantidad de bugs en producción.
+Esta es la excusa más común para no hacer pruebas y es muy peligrosa. Muchas veces sacrificamos calidad del código por la prisa, lo que se refleja en bugs en producción y tiempo en corregirlo, esto se multiplica mientras mas código sin pruebas haya en el proyecto ya que en cada nuevo cambio debemos asegurarnos de que no rompimos nada mas. Según varios estudios las compañías que adoptan TDD pueden reducir entre 40% y 90% la cantidad de bugs en producción.
 
 En pocas palabras estamos invirtiendo 20% de tiempo adicional al tiempo de desarrollo inicial para reducir el tiempo de mantenimiento, debug y costos de soporte en el futuro.
 
-**¿Como decido si debo hacer una prueba unitaria o una de integración?**
+**¿Cómo decido si debo hacer una prueba unitaria o una de integración?**
 
 Las pruebas unitarias en general nos ayudan a probar una parte muy pequeña del código puede ser para asegurarnos que una función se comporte como esperamos con diferentes parámetros o para validar que maneje bien los casos especiales.
 
 Las pruebas unitarias son en las que estamos probando mas de un módulo a la vez. por lo regular estas pruebas imitan el comportamiento de un usuario.
 
-**¿Como pruebo un componente externo que no depende de mi? **
+**¿Cómo pruebo un componente externo que no depende de mi? **
 Debes diseñar tus pruebas de tal manera que puedan correr aunque estés desconectado de internet. Esto por lo regular se logra creando una clase que consuma los servicios externos y en tus tests en lugar de usar esa clase, usas un mock que no va al internet. a esta práctica se le conoce como [No pruebes lo que no es tuyo](https://www.youtube.com/watch?v=nOCnmr7JrSo)
 
 **Ya leí todo esto y aun no se como escribir mi primer prueba. AIUDA**

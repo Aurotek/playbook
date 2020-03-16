@@ -3,7 +3,7 @@ La metodología ágil tiene 4 valores importantes:
  1. Nos enfocamos en **individuos e interacciones** sobre procesos y herramientas
  1. El **Software funcionando** es más importante documentación extensiva
  1. La **Colaboración con el cliente** es más vital que la negociación contractual
- 1. El proceso debe **reponder ante el cambio** en lugar de seguir un plan
+ 1. El proceso debe **responder ante el cambio** en lugar de seguir un plan
  
 Para lograr esto debemos seguir los siguientes principios:
 

@@ -2,13 +2,13 @@
 
 # Trabajar desde casa
 
-Esta guia ayuda a entender mejor lo que significa trabajar desde casa y los retos que implica. Ofrece algunos tips si es las primera vez que vas a trabajar en esta modalidad.
+Esta guía ayuda a entender mejor lo que significa trabajar desde casa y los retos que implica. Ofrece algunos tips si es las primera vez que vas a trabajar en esta modalidad.
 
 ## Antes de empezar
 
-Asegúrate que todo tu equipo sabe que vas a trabajar desde casa. Asegúrate de que tienes todas las herramientas necesarias para poder hacer tu trabajo (accesos, documentos importantes, equipo de computo, etc), apóyate con tu líder si te hace falta algo. Es importante que al inicio del día le comuniques a tu equipo(al menos a tu líder) en qué vas a estar trabajando y cómo pueden contactarte (recuerda que es mejor que todos se puedan encontrar en el mismo lugar, nosotros recomendamos [Slack](/general/slack.md))
+Asegúrate que todo tu equipo sabe que vas a trabajar desde casa. Asegúrate de que tienes todas las herramientas necesarias para poder hacer tu trabajo (accesos, documentos importantes, equipo de computo, etc.), apóyate con tu líder si te hace falta algo. Es importante que al inicio del día le comuniques a tu equipo(al menos a tu líder) en qué vas a estar trabajando y cómo pueden contactarte (recuerda que es mejor que todos se puedan encontrar en el mismo lugar, nosotros recomendamos [Slack](/general/slack.md))
 
-Asegúrate de haber leido la guia de seguridad para mantener los datos de la empresa y nuestros clientes en todo momento. Si tienes alguna duda o situación especial acércate con tu líder o con el equipo de seguridad.
+Asegúrate de haber leído la guía de seguridad para mantener los datos de la empresa y nuestros clientes en todo momento. Si tienes alguna duda o situación especial acércate con tu líder o con el equipo de seguridad.
 
 ## Qué significa hacer home office
 
@@ -39,17 +39,17 @@ Esta junta se le conoce como “daily” y el equipo de desarrollo la ha usado c
 
 ## Tips de personas que han trabajado desde casa antes
 
-*   No trabajar en pijama (para no confundir al cerebro de que es un dia de descanso y para que no te juzguen durante las videollamadas).
+*   No trabajar en pijama (para no confundir al cerebro de que es un día de descanso y para que no te juzguen durante las videollamadas).
 *   Si es posible no trabajes en la misma habitación en la que duermes. Y sobre todo **no trabajes desde tu cama**.
 *   Bañarse todas las mañanas ayuda a crear una rutina y el inicio de la jornada de trabajo).
 *   Es muy importante marcar un horario y ser estricto con él, muchas veces por estar en casa atrasamos las cosas y terminamos trabajando hasta mucho más tarde. (esto a la larga es mas desgastante).
-*   Asegurate de tomar descansos para estirarse, caminar tomar agua etc.
+*   Asegúrate de tomar descansos para estirarse, caminar tomar agua etc.
 *   No comas frente a la computadora, respeta tu horario de comida.
 *   Cuando llegue el fin de semana mantente alejado de tu “cuarto de trabajo”.
 *   Recuerda socializar con otras personas, la soledad puede afectar tu salud mental.
 *   Si tienes niños, plática con ellos para explicarles que aunque estás en casa, estás trabajando y procurar que mientras estés en tu “cuarto de trabajo” no te distraigan.
 *   Recurre a videollamadas en lugar de chat o llamada telefónica. Poder verle la cara a tu colega ayuda a evitar malentendidos. (solo recuerda poner por escrito todos los acuerdos hablados)
-* Puedes leer mas tips [aqui](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf?hsCtaTracking=19bf7893-d507-43ee-b95d-27db481eda82%7C7b087ca9-93ba-4c04-9490-f5b4ebca5aec)
+* Puedes leer mas tips [aquí](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf?hsCtaTracking=19bf7893-d507-43ee-b95d-27db481eda82%7C7b087ca9-93ba-4c04-9490-f5b4ebca5aec)
 
 
 [volver al inicio](../)
