@@ -22,6 +22,8 @@ Es importante que cada equipo defina la manera en que puedan mantener una comuni
 
 Se puede implementar una sala de video conferencia siempre activa por cada equipo donde cada miembro pueda entrar y salir en cualquier momento. Esta simulación ayuda a aclimatarse y ayuda a mantener el nivel de comunicación informal que se tiene en la oficina.
 
+En ocasiones la via escrita no es la más eficaz para resolver un problema o comunicarse, para estos casos es mejor organizar con las otras partes una llamada o videollamada.
+
 ## Minimizar el número de herramientas
 Es importante no tener muchas herramientas. El mínimo recomendado es:
 * Google Docs para creación de documentos de manera colaborativa.
