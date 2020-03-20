@@ -26,6 +26,8 @@ Recomendamos que **todos los equipos hagan una videollamada por la mañana** (a 
 
 Esta junta se le conoce como “daily” y el equipo de desarrollo la ha usado con éxito. Si quieres saber más sobre los dailies da click aquí.
 
+Guía rápida y práctica para 3 ceremonias del Scrum: Planning, Daily y Review.(Intranet Desarrollo: https://auronixcom.sharepoint.com/:b:/s/IntranetDesarrollo/EWXEEo0Im4BNgK95c25W6p8BETqJWvfGZCAKag34s2McDA?e=l0LJqp)
+
 ## Durante el día de trabajo
 
 *   Ten claros tus objetivos y has una lista con las cosas que quieres terminar el día de hoy
