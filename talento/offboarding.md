@@ -17,5 +17,8 @@ Esta tarea es responsabilidad de Karla
  * Sentry
  * FTP
  * Bases de datos
+ * Monday
+ * laravel Forge (quitar llaves ssh)
+ * laravel vapor (borrar usuario)
 
 Hay que asegurarse de escribirle a los administradores de cada sistema para que se le quiten los permisos.
