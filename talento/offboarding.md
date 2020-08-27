@@ -7,8 +7,7 @@ Esta tarea es responsabilidad de Karla
  * Trello
  * Slack
  * Github
- * AWS
- * Forge
+ * AWS 
  * Grupos de Whatsapp
  * Grupos de Skype
  * Documentos de Google Drive
@@ -20,5 +19,6 @@ Esta tarea es responsabilidad de Karla
  * Monday
  * laravel Forge (quitar llaves ssh)
  * laravel vapor (borrar usuario)
+ * Team Viewer
 
 Hay que asegurarse de escribirle a los administradores de cada sistema para que se le quiten los permisos.
