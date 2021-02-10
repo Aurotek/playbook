@@ -4,7 +4,7 @@ En esta página hay algunas recomendaciones para trabajar de la mejor manera con
 
 ## Instalacion/Activacion de WSL2
 
-Lo primero es instalar/activar WSL2, para eso utilizar [este elnace](https://docs.docker.com/docker-for-windows/wsl/) a la documentación de Docker.
+Lo primero es instalar/activar WSL2, para eso utilizar [este enlace](https://docs.docker.com/docker-for-windows/wsl/) a la documentación de Docker.
 
 ## Descargando un OS de linux
 
