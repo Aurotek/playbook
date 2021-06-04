@@ -12,7 +12,7 @@ Una vez que WSL2 ya se encuentra activado, es muy sencillo instalar un sistema o
 
 ## Usando Windows terminal
 
-Utilizar la Windows términal te permite hacer algunas cosas del desarrollo con linux mas sencillas. Una de ellas es que te permite iniciar consolas directamente en el OS de tu elección. Si presionas __Ctrl__ + __,__ te abrirá las configuraciones. En esta sección puedes modificar el directorio de inicio de la consola como en el siguiente ejemplo.
+Utilizar la Windows términal te permite hacer algunas cosas del desarrollo con linux mas sencillas. Una de ellas es que te permite iniciar consolas directamente en el OS de tu elección. Si presionas `__Ctrl__ + __,__` te abrirá las configuraciones. En esta sección puedes modificar el directorio de inicio de la consola como en el siguiente ejemplo.
 
 ```json
 {
