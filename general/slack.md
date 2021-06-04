@@ -63,7 +63,7 @@ No te preocupes, @pacha ya está trabajando en eso. Nos pusimos de acuerdo por l
 
 Al hacer la mención @pacha recibirá una notificación que podría distraerlo de la tarea, cuando en realidad lo único importante era informar que ya lo estabamos revisando.
 
-También es importante no usar @channel solo si todos necesitan saber. En su lugar se recomienda usar @here paar que solo le llegue a las personas que están conectadas.
+También es importante no usar @channel solo si todos necesitan saber. En su lugar se recomienda usar @here para que solo le llegue a las personas que están conectadas.
 
 ## Usa la función Do not disturb
 
