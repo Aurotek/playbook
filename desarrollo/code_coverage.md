@@ -13,7 +13,7 @@ So let's start to know how to use it on our trip.
 
 ## Working with Code Coverage
 
-At this point of your journey in Auronix, you must have access to your project repo here in Github :D If you don't have it, please let your manager know and come back :)
+At this point of your journey in Auronix, you must have access to your project repo here in Github If you don't have it, please let your manager know and come back :)
 
 ### coverage in the github repo
 
@@ -50,7 +50,7 @@ Whit this command you only can test your file also can test a single test functi
 ```bash
 phpunit --filtes test_my_test
 ```
->Note: Remember to name your test correctly, starting with the word *test* and use *snake_case* :) 
+>Note: Remember to name your test correctly, starting with the word *test* and use *snake_case*  
 
 >Another Note: Try to dont repeat names between tests, even with other test files. The command will run all the test functions whit the same name.
 
@@ -82,5 +82,5 @@ But if you are like Bob Ross, try:
 ```bash
 XDEBUG_MODE=coverage phpunit --filter test --coverage-html coverage
 ```
-After running the command, you will see a new folder called coverage. Enter and open the index file, there you can see the coverage of your test with colors :D
+After running the command, you will see a new folder called coverage. Enter and open the index file, there you can see the coverage of your test with colors.
 
