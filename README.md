@@ -19,6 +19,7 @@ Esta documentación es abierta para todo el equipo. Si notas que algo se puede m
   * [Metodología](desarrollo/agil.md)
   * [Flujo de trabajo](desarrollo/flujo.md)
   * [Test Driven Development](desarrollo/tdd.md)
+  * [Code Coverage](desarrollo/code_coverage.md)
   * [Trabajando en Linux en Windows](desarrollo/wsl2.md)
 * Trabajo Remoto
   * [Covid-19](remoto/covid-19.md)
