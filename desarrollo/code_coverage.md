@@ -77,7 +77,7 @@ To run coverage in our device we need to set up some libs. Type in your terminal
 sudo phpenmod xdebug
 ```
 
-Then you be able to test with coverage by entering: 
+Then you'll be able to test with coverage by entering: 
 ```bash
 XDEBUG_MODE=coverage phpunit --filter test --coverage-text
 ```
