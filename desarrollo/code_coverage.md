@@ -1,6 +1,6 @@
 # Code Coveregae. 
 
-As Arurox, we have the task of go beyond our boundaries. When we program, we are creating a new path that needs to be covered.  That's why we use software that keeps out back when we finish a new feature or we're fixing something.  Our new friend in this path calls "Code Coverage". AKA CC (only on this page) 
+As Aurox, we have the task of go beyond our boundaries. When we program, we are creating a new path that needs to be covered.  That's why we use software that keeps out back when we finish a new feature or we're fixing something.  Our new friend in this path it's called "Code Coverage". AKA CC (only on this page) 
 
 ## who is Code Coverage?
 
@@ -83,4 +83,3 @@ But if you are like Bob Ross, try:
 XDEBUG_MODE=coverage phpunit --filter test --coverage-html coverage
 ```
 After running the command, you will see a new folder called coverage. Enter and open the index file, there you can see the coverage of your test with colors.
-
