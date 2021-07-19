@@ -56,10 +56,11 @@ phpunit --filter test_my_test
 
 >Another Note: Try to dont repeat names between tests, even with other test files. The command will run all the test functions whit the same name.
 
-Sometimes DB requests are needed. But the test projects seed the DB test, which means our changes won't last after our test. To see our changes in DB we can use: 
+By default, after each test the DB gets cleaned up, If you want to debug the final state after a test you can set the DEBUG variable to true. This will prevent the DB cleanup process and let you inspect the data after you run a test. Note that with this method you must filter for a single function since running multiple tests without the DB cleanup will have side effects.
+
+
 ```bash
-DEBUG=true phpunit --filter test
-```
+DEBUG=true phpunit --filter test_function_name
 
 ### Lets wear Coveralls
 
