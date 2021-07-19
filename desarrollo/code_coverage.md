@@ -2,7 +2,7 @@
 
 As Aurox, we have the task of go beyond our boundaries. When we program, we are creating a new path that needs to be covered.  That's why we use software that keeps out back when we finish a new feature or we're fixing something.  Our new friend in this path it's called "Code Coverage". AKA CC (only on this page) 
 
-## who is Code Coverage?
+## What is Code Coverage?
 
 It's a software testing metric that determines the number of successful code lines after testing. Its company has some benefits like: 
 
