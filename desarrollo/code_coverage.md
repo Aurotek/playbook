@@ -34,7 +34,9 @@ There are some commands you want to know to test a feature, fix, etc. In most of
 phpunit
 ```
 
-With this command, we can run all our tests in the project. But we don't want to wait until our new test appears in the list to know if our code pass.  To only run our tests we can use: 
+With this command, we can run all our tests in the project. 
+
+Sometimes,  we don't want to wait for all test to run, we can filter the test to only run only one file with: 
 
 ```bash
 phpunit /foo/test.php
