@@ -28,7 +28,7 @@ If you find it means that we can start to cover our work.
 
 ### Testing 
 
-There is some command you want to know to test a feature, test, etc. In most of the projects that use PHP, we work with PHPUnit; is a programmer-oriented testing framework, and the basic command is: 
+There are some commands you want to know to test a feature, fix, etc. In most of the projects that use PHP, we work with PHPUnit; is a programmer-oriented testing framework, and the basic command is: 
 
 ```bash
 phpunit
