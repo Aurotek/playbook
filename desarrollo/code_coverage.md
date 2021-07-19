@@ -4,7 +4,7 @@ As Aurox, we have the task of go beyond our boundaries. When we program, we are 
 
 ## What is Code Coverage?
 
-It's a software testing metric that determines the number of successful code lines after testing. Its company has some benefits like: 
+It's a software testing metric that determines the number of successful code lines after testing.  The benefits of tracking this are: 
 
 - Easy maintenance of codebase: the report will help to ensure code quality. 
 - Exposure of bad code: like unused code. 
