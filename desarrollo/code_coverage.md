@@ -48,9 +48,9 @@ There is another way to run our test and maybe the most useful for you:
 phpunit --filter test.php
 ```
 
-Whit this command you only can test your file also can test a single test functión. Only need to type the test function name:
+The filter parameter can also be used to test a single function passing it the test function name:
 ```bash
-phpunit --filtes test_my_test
+phpunit --filter test_my_test
 ```
 >Note: Remember to name your test correctly, starting with the word *test* and use *snake_case*  
 
